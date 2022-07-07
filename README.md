@@ -1,5 +1,11 @@
-Olá, Eu sou o Gabryell! Também conhecido como Reis.
+Gabryell Reis👑
 Seja bem-vindx ao meu perfil!! 😄
+
+
+Sou estudante de programação voltado para o Desenvolvimento Web.
+Possuo conhecimentos nas respectivas tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px" />
+          
 
 <!--
 **GabryellReis/GabryellReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
