@@ -1,11 +1,9 @@
-Gabryell Reis👑
-Seja bem-vindx ao meu perfil!! 😄
-
+<h2 style="color:green-patone;text-align:center" >Gabryell Reis👑</h2><br>
+<h4>Seja bem-vindx ao meu perfil!!😄</h4>
 
 Sou estudante de programação voltado para o Desenvolvimento Web.
 Possuo conhecimentos nas respectivas tecnologias: <br />
 ♦ - Fundamentais: <br />
-Conhecimentos em... <br />
 ✅HTML5 - HTML sêmantico, forms, table...  <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90px" /> <br />
 ✅CSS3 - Sintaxe, pseudo-classe e pseudo-elemento, bibliotecas e frameworks, CSS responsivo... <br />
