@@ -1,4 +1,4 @@
-<h2 style="color:green-patone;text-align:center" >Gabryell Reis👑</h2><br>
+<h2 style="color:#00ad43;text-align:center" >Gabryell Reis👑</h2><br>
 <h4>Seja bem-vindx ao meu perfil!!😄</h4>
 
 Sou estudante de programação voltado para o Desenvolvimento Web.
