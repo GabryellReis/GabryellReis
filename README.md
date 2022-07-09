@@ -16,7 +16,7 @@ Conhecimentos
  Tecnologias como ReactJs e Redux. Posso utilizar componentes de classes ou funcionais, <br />
  sabendo trabalhar com consumo de Api's e gerenciamento de estados. <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="90px" />
+<i class="devicon-github-original-wordmark" width="90px"/>
  <br />
  <br />
  ♦ - Back end: <br />
