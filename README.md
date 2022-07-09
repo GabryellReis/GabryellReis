@@ -11,15 +11,15 @@ Conhecimentos em... <br />
 ✅CSS3 - Sintaxe, pseudo-classe e pseudo-elemento, bibliotecas e frameworks, CSS responsivo... <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90px" /> <br />
 ✅JS - DOM, eventos, HOF's, Jest... <br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90px" /> <br />              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90px" />               
 <br />
-
+<hr />
  ♦ - Front end: <br />
  ✅ React - Tecnologias como ReactJs e Redux. Posso utilizar componentes de classes ou funcionais, <br />
  sabendo trabalhar com consumo de Api's e gerenciamento de estados. <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90px" />
  <br />
- 
+ <hr />
  ♦ - Back end: <br />
  -Em progresso... <br />
  <img src="https://img.icons8.com/fluency/48/000000/progress-indicator.png" width="90px" /> <br />
