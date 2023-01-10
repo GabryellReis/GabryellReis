@@ -25,7 +25,12 @@ Possuo conhecimentos nas respectivas tecnologias: <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="90px" />
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/apiGabryellReis&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true" />
 </picture>
