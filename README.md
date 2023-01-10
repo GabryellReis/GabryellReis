@@ -23,4 +23,14 @@ Possuo conhecimentos nas respectivas tecnologias: <br />
  <img src="https://img.icons8.com/fluency/48/000000/progress-indicator.png" width="90px" /> <br />
 📚Estudando Docker atualmente!! <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="90px" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiGabryellReis)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/apiGabryellReis&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/apiGabryellReis&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/apiGabryellReis&show_icons=true" />
+</picture>
