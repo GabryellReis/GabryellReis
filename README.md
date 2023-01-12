@@ -16,7 +16,7 @@
 </picture> <br>
 <h2>Stacks envolvidas:</h2>
 <hr />
-<img src="https://skills.thijs.gg/icons?i=html,css,js,react,mysql" /> <br>
+<img src="https://skills.thijs.gg/icons?i=html,css,js,react,mysql" />
 <h2>Estudando atualmente:</h2>
 <hr />
 <img src="https://skills.thijs.gg/icons?i=ts,mongodb,nodejs,firebase" />
