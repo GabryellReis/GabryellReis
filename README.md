@@ -2,7 +2,7 @@
 
 <h4>Estudante de programação voltado para o Desenvolvimento Web.</h4>
 <p>BootCamp pela <a href="https://www.betrybe.com/">Trybe</a>, com 1 ano de duração e cerca de 35 projetos desenvolvidos.</p><br>
-<p>Que tal dar uma olhadinha no meu <a href="https://github.com/GabryellReis/GabryellReis.io">Portifólio</a>?</p>
+<p>Que tal dar uma olhadinha no meu <a href="https://gabryellreis.github.io/">Portifólio</a>?</p>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true&theme=dark"
