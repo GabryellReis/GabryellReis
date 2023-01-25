@@ -13,6 +13,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryellReis&layout=compact&langs_count=7&theme=dracula"/>
 </picture> <br>
 <h2>Stacks envolvidas:</h2>
 <hr />
