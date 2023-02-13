@@ -13,11 +13,13 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true" />
+</picture>
+<picture>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryellReis&layout=compact&langs_count=7&theme=dracula"/>
-</picture> <br>
+</picture> <br/>
 <h2>Stacks envolvidas:</h2>
 <hr />
-<img src="https://skills.thijs.gg/icons?i=html,css,js,react,mysql" />
+<img src="https://skills.thijs.gg/icons?i=html,css,js,react,mysql,mongodb,nodejs" />
 <h2>Estudando atualmente:</h2>
 <hr />
-<img src="https://skills.thijs.gg/icons?i=ts,mongodb,nodejs,firebase" />
+<img src="https://skills.thijs.gg/icons?i=ts,py,firebase" />
