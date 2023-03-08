@@ -22,4 +22,4 @@
 <img src="https://skills.thijs.gg/icons?i=html,css,js,react,mysql,mongodb,nodejs,sequelize,express" />
 <h2>Estudando atualmente:</h2>
 <hr />
-<img src="https://skills.thijs.gg/icons?i=ts,py,firebase" />
+<img src="https://skills.thijs.gg/icons?i=ts,py,firebase,vercel" />
