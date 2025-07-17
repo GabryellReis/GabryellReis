@@ -13,10 +13,13 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?logo=CSS)
   ![JS](https://img.shields.io/badge/-Javascript-333333?logo=javascript)
   ![TS](https://img.shields.io/badge/-Typescript-333333?logo=typescript)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?logo=sql)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgres)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?logo=sql)
+  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgres)
+  ![PostgreSQL](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![PostgreSQL](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+  
 
 **DevOps**
 
