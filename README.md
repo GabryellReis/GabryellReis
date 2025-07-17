@@ -11,7 +11,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?logo=CSS)
   ![JS](https://img.shields.io/badge/-Javascript-333333?logo=javascript)
   ![TS](https://img.shields.io/badge/-Typescript-333333?logo=typescript)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?logo=SQL)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?logo=sql)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node LTS](https://img.shields.io/node/v-lts/:packageName)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
 
