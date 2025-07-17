@@ -10,7 +10,7 @@
 **Skills**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?logo=CSS)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?logo=CSS&logoColor=2965f1)
   ![JS](https://img.shields.io/badge/-Javascript-333333?logo=javascript)
   ![TS](https://img.shields.io/badge/-Typescript-333333?logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
