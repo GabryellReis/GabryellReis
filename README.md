@@ -4,6 +4,8 @@
 - 🤙 Hello! I,m Gabryell Reis
 - 💻 Web and Mobile Developer
 - 🚀 React and NodeJs Specialist
+- 
+<hr />
 
 **Skills**
 
@@ -13,10 +15,16 @@
   ![TS](https://img.shields.io/badge/-Typescript-333333?logo=typescript)
   ![SQL](https://img.shields.io/badge/-SQL-333333?logo=sql)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgres)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
 
+**DevOps**
 
+  ![Git](https://img.shields.io/badge/-Git-333333?logo=git)
+  ![Github](https://img.shields.io/badge/-Github-333333?logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?logo=Docker)
   
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true&theme=dark"
@@ -28,4 +36,11 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true" />
 </picture>
+
+<hr />
+
+**Studying**
+
+  ![PHP](https://img.shields.io/badge/-PHP-333333?logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?logo=laravel)
 
