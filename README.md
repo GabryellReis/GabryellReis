@@ -62,22 +62,10 @@ Building scalable web and mobile applications with clean architecture and modern
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabryellReis&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryellReis&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=GabryellReis&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabryellReis&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
